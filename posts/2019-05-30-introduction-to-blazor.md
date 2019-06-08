@@ -1,8 +1,6 @@
 ---
-title: Introduction to Blazor
-date: 2019-05-30 10:00:00Z
-author: Robert Sundström
-tags: blazor, dotnet, web, wasm
+title: "Introduction to Blazor"
+tags: [blazor, dotnet, web, wasm]
 ---
 
 This is an introductory article on Blazor.

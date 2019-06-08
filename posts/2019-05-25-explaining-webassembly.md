@@ -1,8 +1,6 @@
 ---
-title: Explaining WebAssembly
-date: 2019-05-25 09:00:00Z
-author: Robert Sundström
-tags: webassembly, wasm, web
+title: "Explaining WebAssembly"
+tags: [webassembly, wasm, web]
 ---
 
 There has been a lot of talk about WebAssembly lately. But what is it really?
