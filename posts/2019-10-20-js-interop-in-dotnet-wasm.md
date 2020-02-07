@@ -11,7 +11,7 @@ Since WASM development, at least, is about the web we will assume that we can do
 
 ## Table of Contents
 1. JavaScript interop in Blazor
-    1. .NET to JavaScript
+    1. <a href="#js">.NET to JavaScript</a>
     2. JavaScript to .NET
     3. Capture DOM Element references
     4. Passing .NET references to JavaScript
