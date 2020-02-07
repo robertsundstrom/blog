@@ -42,7 +42,7 @@ using Microsoft.JSInterop;
 IJSRuntime JSRuntime { get; set; }
 ```
 
-### .NET to JavaScript
+<h3 id="js"> .NET to JavaScript</h3>
 
 The basic case of interop is to call JavaScript code from C#. 
 
