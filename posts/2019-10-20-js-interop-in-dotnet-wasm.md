@@ -10,7 +10,7 @@ This article is about JavaScript interop in .NET on WebAssembly in the context o
 Since WASM development, at least, is about the web we will assume that we can do some interop with the browser, like DOM manipulation. But how?
 
 <div id="toc">
-   <h3>Table of Contents</h3>
+   <h2>Table of Contents</h2>
 </div>
 
 ## JavaScript interop in Blazor
