@@ -9,14 +9,9 @@ This article is about JavaScript interop in .NET on WebAssembly in the context o
 
 Since WASM development, at least, is about the web we will assume that we can do some interop with the browser, like DOM manipulation. But how?
 
-## Table of Contents
-1. JavaScript interop in Blazor
-    1. <a href="#js">.NET to JavaScript</a>
-    2. JavaScript to .NET
-    3. Capture DOM Element references
-    4. Passing .NET references to JavaScript
-2. DOM interop and the Future
-
+<div id="toc">
+   <h3>Table of Contents</h3>
+</div>
 
 ## JavaScript interop in Blazor
 
